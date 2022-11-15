@@ -1,25 +1,50 @@
-### Opa, bem-vindo(a) ao meu perfil do gitHub
-
-<div align="center">
-  <a href="https://github.com/Luciano655dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luciano655dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luciano655dev&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-<div style="display: inline_block"><br>
+# Luciano655dev
+<div style="display: inline_block" align="left"><br>
   <img align="center" alt="Luciano-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Luciano-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Luciano-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Luciano-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Luciano-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Luciano-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="right" alt="Luciano-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/83819836?v=4">
 </div>
-  ##
-<div> 
-  <a href="https://www.youtube.com/channel/UCtbnTLdW7cmy6Wr6HruR6lQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/luciano655dev" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/Luciano655#7898" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:lucianomenezes655@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="500px" max-width="500px" width="500px" align="right">
+
+<p align="left"> 
+  Bom dia! Meu nome é Luciano Menezes e sou <strong>Programador Junior</strong> JavaScript, React e React Native.<br>
+</p>
+
+<p align="left">
+  🦄 Linguagens: <strong>HTML, CSS, JavaScript, React, React Native, NodeJS...</strong>
+</p>
+
+<p align="left">
+  💼 Cursos (em andamento): <strong>Finanças no Traders Club (TC), JS e TS na Udemy</strong>
+</p>
+
+<p align="left">
+  💌 Minhas redes sociais para contato: ⤵️
+</p>
+
+<p align="left">
+  <a href="https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcSMSqVrVmpLCJJhxsQQnfBQrvCjmsSmLjLvbrqJCcwKnCGdVKczqLWXNxdwKkvJqWjtlLJGg" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
+
+  <a href="#" alt="Discord">
+  <img src="https://img.shields.io/badge/-Discord-7289da?style=flat-square&labelColor=7289da&logo=discord&logoColor=white&link=https://discord.gg/Luciano655#7898"/></a>
+
+  <a href="#" alt="Twitter">
+  <img src="https://img.shields.io/badge/-Twitter-55acee?style=flat-square&labelColor=55acee&logo=twitter&logoColor=white&link=https://twitter.com/Luciano655dev"/></a>
+
+  <a href="#" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/lucianomenezes08/"/></a>
+</p>
+
+# My Status
+<div>
+  <a href="https://github.com/Luciano655dev">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Luciano655dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luciano655dev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+-> nota: Este é um README curto para uma pequena apresentação aqui no github, o meu real portfolio está <a href="https://luciano655.netlify.app">nesse site</a>
