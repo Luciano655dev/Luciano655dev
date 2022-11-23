@@ -11,7 +11,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="500px" max-width="500px" width="500px" align="right">
 
 <p align="left"> 
-  Bom dia! Meu nome é Luciano Menezes e sou <strong>Programador Junior</strong> JavaScript, React e React Native.<br>
+  Bom dia! Meu nome é Luciano Menezes e sou <strong>Programador Junior</strong> JavaScript, NodeJs e Ract.<br>
 </p>
 
 <p align="left">
@@ -47,4 +47,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luciano655dev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
--> nota: Este é um README curto para uma pequena apresentação aqui no github, o meu real portfolio está <a href="https://luciano655.netlify.app">nesse site</a>
+<strong>-> nota: Este é um README curto para uma pequena apresentação aqui no github, o meu real portfolio está <a href="https://luciano655dev.netlify.app">***nesse site***</a></strong>
