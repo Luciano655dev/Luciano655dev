@@ -11,15 +11,15 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="500px" max-width="500px" width="500px" align="right">
 
 <p align="left"> 
-  Bom dia! Meu nome é Luciano Menezes e sou <strong>Programador Junior</strong> JavaScript, NodeJs e Ract.<br>
+  Bom dia! Meu nome é Luciano Menezes e sou <strong>Programador Junior</strong> JavaScript, NodeJs e React.<br>
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>HTML, CSS, JavaScript, React, React Native, NodeJS...</strong>
+  🦄 Linguagens: <strong>HTML, CSS, JavaScript, TypeScript, React, React Native, NodeJS...</strong>
 </p>
 
 <p align="left">
-  💼 Cursos (em andamento): <strong>Finanças no Traders Club (TC), JS e TS na Udemy</strong>
+  💼 Cursos (em andamento): <strong>Finanças (TC), JS e TS (Udemy), Alura</strong>
 </p>
 
 <p align="left">
