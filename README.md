@@ -46,15 +46,6 @@ Currently building:
 
 ---
 
-### What I focus on
-
-- Building scalable backends  
-- Designing real-world systems (auth, media pipelines, moderation)  
-- Turning ideas into working products  
-- Learning by shipping, not just studying  
-
----
-
 ### Stats
 
 <div>
@@ -65,8 +56,6 @@ Currently building:
 </div>
 
 ---
-
-### Portfolio
 
 This is just a quick introduction.
 
