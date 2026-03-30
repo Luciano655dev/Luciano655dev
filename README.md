@@ -16,8 +16,8 @@
 
 I'm Luciano Menezes, a fullstack developer focused on building real products from scratch.
 
-I enjoy working on projects that combine technology with meaning, especially platforms that help society in various ways.. For me, technology is a means to achieve the goal you seek. </br>
-I also speak **Portuguese** and **English** fluently, and I have a good knowledge of **Spanish**.
+I am **Brazillian**, I speak **Portuguese** and **English** fluently, and basic **Spanish**.  <br>
+I enjoy working on projects that combine technology with meaning, especially platforms that help society in various ways. For me, technology is a means to achieve the goal you seek. </br>
 
 Currently building:
 
