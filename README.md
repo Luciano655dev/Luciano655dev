@@ -1,11 +1,20 @@
 # Luciano Menezes (@luciano655dev)
 
 <div align="left">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="30" />
+  
+  <img src="https://cdn.simpleicons.org/typescript" height="30" />
+  
+  <img src="https://cdn.simpleicons.org/javascript" height="30" />
+
+  <img src="https://cdn.simpleicons.org/next.js/white" height="30" />
+
+  <img src="https://cdn.simpleicons.org/react" height="30" />
+  
+  <img src="https://cdn.simpleicons.org/mongodb" height="30" />
+
+  <img src="https://cdn.simpleicons.org/postgresql" height="30" />
+
 </div>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350px" align="right">
@@ -27,25 +36,6 @@ Currently building:
 
 ---
 
-### Skills
-
-- **Frontend:** React, React Native, NextJS, HTML/CSS
-- **Backend:** Node.js, Express  
-- **Database:** MongoDB, PostgreSQL, MySQL
-- **Languages:** JavaScript, TypeScript, Python
-- **Other:** AI APIs, RESTful APIs, AWS (S3, Rekognition), Redis, Docker
-
----
-
-### My Experience
-
-- **Internship** developing applications at <a href="https://www.phoebus.com.br/">Phoebus Tecnologia</a> (2025)
-- **Freelancer** Developing Websites at Fiverr (2023-2024)
-- **Developer** Game Developer for a small church community (2024)
-- **Creating** multiple high complexity apps, such as <a href="https://daykeeper.app">Daykeeper</a> and <a href="https://hobbyasap.com">HobbyASAP</a> (2023-Today)
-
----
-
 ### Stats
 
 <div>
@@ -63,16 +53,19 @@ My full portfolio with projects and details is here:
 👉 https://luciano655dev.netlify.app
 
 Contact me!
+
+### Contact
+
 <p align="left">
   <a href="mailto:lucianomenezes655@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-FF0000?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
+  
   <a href="https://discord.com/users/luciano655">
-    <img src="https://img.shields.io/badge/-Discord-7289da?style=flat-square&logo=discord&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-
+  
   <a href="https://twitter.com/luciano655dev">
-    <img src="https://img.shields.io/badge/-Twitter-55acee?style=flat-square&logo=twitter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
 </p>
