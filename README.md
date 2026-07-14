@@ -30,9 +30,10 @@ I enjoy working on projects that combine technology with meaning, especially pla
 
 Currently building:
 
-- <a href="https://daykeeper.app>">**Daykeeper.app**</a> → a journal style social + calendar platform to turn days into memories  
-- <a href="https://hobbyasap.com>">**HobbyASAP.com**</a> → an AI-powered platform to help people learn new hobbies
+- <a href="https://daykeeper.app>">**Daykeeper.app**</a> → a journal style social + calendar platform to turn days into memories
 - <a href="https://onemoregood.org>">**OneMoreGood.org**</a> → a non-profit e-commerce to fundraise money to small organizations in Brazil
+- <a href="https://betterpomo.com>">**Betterpomo.com**</a> → A Shared Pomodoro and timer study platform with everything you will ever need
+- <a href="https://hobbyasap.com>">**HobbyASAP.com**</a> → an AI-powered platform to help people learn new hobbies
 
 ---
 
