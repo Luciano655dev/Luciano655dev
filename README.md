@@ -50,8 +50,7 @@ Currently building:
 
 This is just a quick introduction.
 
-My full portfolio with projects and details is here:  
-👉 https://luciano655dev.netlify.app
+👉 My full portfolio is here, <a href="https://luciano655.com">at luciano655.com!</a>
 
 Contact me!
 
