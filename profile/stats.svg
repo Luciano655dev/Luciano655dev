@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Luciano Menezes' GitHub Stats, Rank: B-</title>
-        <desc id="descId">Total Stars Earned: 55, Total Commits  : 762, Total PRs: 14, Total Issues: 4, Contributed to (last year): 1</desc>
+        <title id="titleId">Luciano Menezes' GitHub Stats, Rank: B</title>
+        <desc id="descId">Total Stars Earned: 55, Total Commits  : 768, Total PRs: 21, Total Issues: 4, Contributed to (last year): 1</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 157.9006844436373;
+        stroke-dashoffset: 153.0124961292869;
       }
     }
   
@@ -143,7 +143,7 @@
         <g class="rank-text">
           
         <text x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="level-rank-icon">
-          B-
+          B
         </text>
       
         </g>
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >762</text>
+      >768</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >14</text>
+      >21</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
